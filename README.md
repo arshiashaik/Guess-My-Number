@@ -19,6 +19,7 @@ Welcome to Guess My Number Game! This is a simple web-based game where players t
 4. You have a total of 20 attempts to guess the correct number.
 5. If you guess the number correctly within the given attempts, you win!
 6. If you run out of attempts, you lose the game.
+7. You can restart the game at any time by clicking the "Again" button.
 
 ## 🚀 Features
 

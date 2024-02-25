@@ -28,8 +28,6 @@ btnCheck.addEventListener("click", function () {
     displayMessage("🎊 You Won");
     document.querySelector("body").style.backgroundColor = "Green";
     secretNumber.textContent = secretNumberGenerated;
-    btnCheck.style.display = "none";
-    btnAgain.style.display = "block";
 
     if (score > highscore) {
       highscore = score;
@@ -45,8 +43,6 @@ btnCheck.addEventListener("click", function () {
     } else {
       displayMessage("😔 You Lost");
       userScore.textContent = 0;
-      btnCheck.style.display = "none";
-      btnAgain.style.display = "block";
       document.querySelector("body").style.backgroundColor = "red";
     }
   }
@@ -62,7 +58,5 @@ btnAgain.addEventListener("click", function () {
   userScore.textContent = score;
   secretNumber.textContent = "?";
   document.querySelector(".user-guess").value = "";
-  btnCheck.style.display = "block";
-  btnAgain.style.display = "none";
   document.querySelector("body").style.backgroundColor = "black";
 });

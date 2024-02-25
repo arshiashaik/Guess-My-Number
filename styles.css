@@ -75,13 +75,6 @@ h1 {
   padding-bottom: 20px;
 }
 
-.again {
-  display: none;
-  /* position: absolute;
-  top: 2rem;
-  left: 2rem; */
-}
-
 .user-guess {
   background: none;
   border: 4px solid #eee;
@@ -107,10 +100,10 @@ h1 {
   font-family: inherit;
   padding: 2rem 3rem;
   cursor: pointer;
+  display: flex;
 }
 
-.message {
-  margin-bottom: 8rem;
-  height: 3rem;
-  font-size: 4rem;
+.buttons {
+  display: flex;
+  gap: 10px;
 }

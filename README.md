@@ -1,17 +1,17 @@
-# Guess My Number Game
+# 🔢 Guess My Number Game
 
 Welcome to Guess My Number Game! This is a simple web-based game where players try to guess a secret number between 1 and 20.
 
-🔗 [Demo Link](guess-my-number-jsgame.netlify.com)
+🔗 [Demo Link](guess-my-number-jsgame.netlify.app)
 
-## Technologies Used
+## 💻 Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
 
-## How to Play
+## 🕹️ How to Play
 
 1. Enter your guess in the input field provided.
 2. Click the "Check" button to see if your guess is correct.
@@ -20,12 +20,12 @@ Welcome to Guess My Number Game! This is a simple web-based game where players t
 5. If you guess the number correctly within the given attempts, you win!
 6. If you run out of attempts, you lose the game.
 
-## Features
+## 🚀 Features
 
 - Dynamic background color changes based on game status.
 - Keeps track of the player's current score and highest score.
 
-## Installation
+## ⚙️ Installation
 
 1. Clone the repository.
 2. Open the index.html file

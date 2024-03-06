@@ -2,7 +2,7 @@
 
 Welcome to Guess My Number Game! This is a simple web-based game where players try to guess a secret number between 1 and 20.
 
-🔗 [Demo Link]((https://guess-my-number-jsgame.netlify.app))
+🔗 [Demo Link](https://guess-my-number-jsgame.netlify.app)
 
 ## 💻 Technologies Used
 
